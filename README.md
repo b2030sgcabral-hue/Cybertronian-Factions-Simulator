@@ -1,17 +1,18 @@
-# EL-CARTEL-DE-CASINO-MIJO
-gambling site
+# Cybertronian Factions Simulator
+
 
 Project Title 
 
-Name of the Application	: El-Cartel-De-Casino-Mijo
+Name of the Application	: Cybertronian Factions Simulator
 
 Section: Magnesium
 
 Group Members: Sid Cabral, Seth Cruz, Nathan David
 
-Date (Proposal Date):
+Date (Proposal Date): 11/16/26
 
 Project Description:
+Cybertronian Factions Simulator is a game where you get to play as a cybertronian, either pick the Autobots and maintain justice and order across Cybertron  
 
 A brief summary of the project description and the need for it.
 Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
