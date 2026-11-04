@@ -3,11 +3,11 @@ gambling site
 
 Project Title 
 
-Name of the Application	:
+Name of the Application	: El-Cartel-De-Casino-Mijo
 
 Section: Magnesium
 
-Group Members: Sid Cabral, Nathan David, Seth Cruz	
+Group Members: Sid Cabral, Seth Cruz, Nathan David
 
 Date (Proposal Date):
 
