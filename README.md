@@ -12,17 +12,17 @@ Group Members: Sid Cabral, Seth Cruz, Nathan David
 Date (Proposal Date): 11/16/26
 
 Project Description:
-Transformer Factions Simulator is a game where you get to play as a transformer, choosing among various factions like the Autobots who maintain justice and order across Cybertron, a defender of freedom and peace, or the Decepticons who conquer Cybertron and believe in "peace through tyranny" and rule with fear and power.
+The Transformer Factions Simulator is a turn-based simulation game where players can create, customize, and play as a Transformer from different factions. Players can choose among various factions including the Autobots, the Decepticons, Dinobots, Maximals, Predacons, Terrorcons, and Mercenaries. 
 
-Autobots
-Decepticons
-Dinobots
-Maximals
-Predacons
-Terrorcons
-Mercenaries
+Each Transformer has their own unique attributes, including name, height, speed, attack, defense, health, alt mode(s), weapon(s), victories, defeats, and overall status. These attributes will determine the respective Transformer's performance during battles based on their strength and weaknesses.
 
-For this simulator we will be using classes such as a parent class Transformer, with attributes such as name, height, speed, attack, defense, health, alt mode(s), weapon(s), status, victories, and defeats. With possible methods:, now we would make the faction classes e.g. Autobots, Decepticons, etc. inherit from it and add extra attributes for each of the child classes. It's also possible we showcase polymorphism among the classes using method overriding and possibly use duck-typing. 
+The game allows for players to experience simulated battles between different Transformers while utilizing their individual skills and faction attributes. Players can attak opponents, defend themselves from attacks, and use their own weapon(s) and abilities to defeat their foes.
+
+This simulator aims to demonstrate Object-Oriented Programming (OOP) concepts, specifically inheritance, encapsulation, polymorphism, and method overrieding. The parent class "Transformer" will contain common attributes and methods shared across all Transformers. Each individual faction class will inherit from this parent class and implement their own unique characteristics and attributes.
+
+#who maintain justice and order across Cybertron, a defender of freedom and peace, or the Decepticons who conquer Cybertron and believe in "peace through tyranny" and rule with fear and power.#
+
+#This is an unofficial website created purely for recreational and educational purposes. Transformers, its factions, and all related character and lore names are trademarks of Hasbro and Takara Tomy.
 
 --------------------------------------------------------------------------
 #A brief summary of the project description and the need for it.
@@ -41,5 +41,5 @@ Objective 1: Leisure
 
 Objective 2: Knowledge
 
-Objective n:
+Objective n: 
 
