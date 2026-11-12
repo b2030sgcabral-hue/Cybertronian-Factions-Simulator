@@ -1,9 +1,9 @@
-# Cybertronian Factions Simulator
+# Transformer Factions Simulator
 
 
 Project Title 
 
-Name of the Application	: Cybertronian Factions Simulator
+Name of the Application	: Transformer Factions Simulator
 
 Section: Magnesium
 
