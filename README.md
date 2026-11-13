@@ -29,7 +29,7 @@ Include the description as well of your target demographics as the user of your 
 The description is then followed by the class diagram, depicting clearly what was described.
 --------------------------------------------------------------------------
 
-Goals: during the making of this project we gain experience in oop, gain experience in coding with a team, Know how to ideate a system, create a game based on the transformers franchise, and create a system that follows the 4 pillars of oop. 
+Goals: our goals in making this project include gaining experience in oop, gaining experience in coding with a team, Know how to ideate a system, create a game based on the transformers franchise, and create a system that follows the 4 pillars of oop that can be expanded with new features over time. 
 
 --------------------------------------------------------------------------
 #Describe the long term outcomes of your project followed by a couple of objectives to meet the goals stated in this paragraph
