@@ -16,7 +16,7 @@ The Transformer Factions Simulator is a turn-based simulation game where players
 
 Each Transformer has their own unique attributes, including name, height, speed, attack, defense, health, honor level, willpower, alt mode(s), weapon(s), victories, defeats, and overall status. These attributes will determine the respective Transformer's performance during battles based on their strength and weaknesses.
 
-The game allows for players to experience simulated battles between different Transformers while utilizing their individual skills and faction attributes. Players can attak opponents, defend themselves from attacks, and use their own weapon(s) and abilities to defeat their foes.
+The game allows for players to experience simulated battles between different Transformers while utilizing their individual skills and faction attributes. Players can attack opponents, defend themselves from attacks, and use their own weapon(s) and abilities to defeat their foes.
 
 This simulator aims to demonstrate Object-Oriented Programming (OOP) concepts, specifically inheritance, encapsulation, polymorphism, and method overrieding. The parent class "Transformer" will contain common attributes and methods shared across all Transformers. Each individual faction class will inherit from this parent class and implement their own unique characteristics and attributes.
 
