@@ -39,5 +39,5 @@ Objective 1: Leisure
 
 Objective 2: Knowledge
 
-Objective n: 
+Objective 3: experience
 
